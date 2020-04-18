@@ -2,7 +2,7 @@ team,team_code,url
 Arsenal,ARS,https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/409px-Arsenal_FC.svg.png
 Aston Villa,AVL,https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Aston_Villa_FC_crest_%282016%29.svg/339px-Aston_Villa_FC_crest_%282016%29.svg.png
 Bournemouth,AFCB,https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/AFC_Bournemouth_%282013%29.svg/457px-AFC_Bournemouth_%282013%29.svg.png
-Brighton & Hove Albion,BHA,https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Brighton_%26_Hove_Albion_logo.svg/480px-Brighton_%26_Hove_Albion_logo.svg.png
+Brighton,BHA,https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Brighton_%26_Hove_Albion_logo.svg/480px-Brighton_%26_Hove_Albion_logo.svg.png
 Burnley,BFC,https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Burnley_F.C._Logo.svg/411px-Burnley_F.C._Logo.svg.png
 Chelsea,CFC,https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/480px-Chelsea_FC.svg.png
 Crystal Palace,CPFC,https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Crystal_Palace_FC_logo.svg/481px-Crystal_Palace_FC_logo.svg.png
@@ -10,12 +10,12 @@ Everton,EFC,https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Everton_FC_logo
 Leicester City,LCFC,https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/480px-Leicester_City_crest.svg.png
 Liverpool,LFC,https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/463px-Liverpool_FC.svg.png
 Manchester City,MCFC,https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/480px-Manchester_City_FC_badge.svg.png
-Manchester United,MUFC,https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/474px-Manchester_United_FC_crest.svg.png
-Newcastle United,NUFC,https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/477px-Newcastle_United_Logo.svg.png
+Manchester Utd,MUFC,https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/474px-Manchester_United_FC_crest.svg.png
+Newcastle Utd,NUFC,https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/477px-Newcastle_United_Logo.svg.png
 Norwich City,NCFC,https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Norwich_City.svg/430px-Norwich_City.svg.png
-Sheffield United,SUFC,https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Sheffield_United_FC_logo.svg/480px-Sheffield_United_FC_logo.svg.png
+Sheffield Utd,SUFC,https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Sheffield_United_FC_logo.svg/480px-Sheffield_United_FC_logo.svg.png
 Southampton,SOU,https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/FC_Southampton.svg/420px-FC_Southampton.svg.png
-Tottenham Hotspur,TOT,https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/374px-Tottenham_Hotspur.svg.png
+Tottenham,TOT,https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/374px-Tottenham_Hotspur.svg.png
 Watford,WFC,https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Watford.svg/430px-Watford.svg.png
-West Ham United,WHU,https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/431px-West_Ham_United_FC_logo.svg.png
-Wolverhampton Wanderers,WWFC,https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Wolverhampton_Wanderers.svg/480px-Wolverhampton_Wanderers.svg.png
+West Ham,WHU,https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/431px-West_Ham_United_FC_logo.svg.png
+Wolves,WWFC,https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Wolverhampton_Wanderers.svg/480px-Wolverhampton_Wanderers.svg.png
